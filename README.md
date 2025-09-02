@@ -25,8 +25,5 @@ Deployed on Netlify PaaS, enhanced with HSTS Security and optimized through mult
 Below is a Preview of **UC Luxury Salon**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-- **Dark Theme**
-<img src="assets/img/Screenshot1.png" alt="UC Luxury Salon" width="100%" />
-
-- **Light Theme**
-<img src="assets/img/Screenshot.png" alt="UC Luxury Salon" width="100%" />
+- **Outout**
+<img src="img/Screenshot.png" alt="UC Luxury Salon" width="100%" />
